@@ -15,7 +15,7 @@ only those order are being processed which are less than given date but not equa
 - vashishtha chauhan / Salecto
 
 ### Install module
-0. Run `composer config repositories.reponame vcs https://github.com/vac19/CatalogKO`
+0. Run `composer config repositories.reponame vcs https://github.com/vac19/cancelOrders`
 1. Run `composer require salecto2/magento2-cancel-orders`
 2. Run `php bin/magento setup:upgrade`
 3. Run `php bin/magento setup:di:compile`
